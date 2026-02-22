@@ -26,9 +26,3 @@ Passionate about turning data into actionable insights. I specialize in data ana
 - Email: santiagoacostab17@gmail.com  
 - Phone: +57 3046742454  
 - LinkedIn: [Santiago Acosta Barriga](https://www.linkedin.com/in/santiagoacostab17)
-
----
-
-## 📈 GitHub Stats
-
-![Santiago Acosta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiagoacostab17&show_icons=true&theme=radical)
