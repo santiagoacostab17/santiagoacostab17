@@ -16,7 +16,7 @@ Passionate about turning data into actionable insights. I specialize in data ana
 
 ## 💼 Featured Project
 
-- **[Northwind Sales Analysis](link-to-project)**  
+- **[northwind-data-analysis](link-to-project)**  
   Analysis of sales data from the Northwind database using SQL and Power BI. Includes interactive dashboards and key performance indicators.
 
 ---
