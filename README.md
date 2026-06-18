@@ -1,41 +1,19 @@
-# 👋 Hi, I'm Santiago Acosta
+Data Analyst with hands-on experience turning raw data into decisions that move the needle. I work across the full analytics stack — SQL (MySQL, PostgreSQL), Python (pandas, NumPy, SciPy, statsmodels), Power BI with DAX, and Excel — with a track record of shipping end-to-end projects, not just coursework.
 
-**Data Analyst | SQL, Python, Power BI | Business Intelligence & Data Modeling**
+ 
 
-Turning data into actionable insights is my passion. I specialize in analyzing, visualizing, and modeling data to optimize business processes and support strategic decision-making.
+My anchor projects cover three domains: revenue intelligence (Northwind SQL dashboard), quantitative finance (81,900+ EURUSD observations pipeline with backtesting), and product analytics (RappiPlus A/B testing with Z-test p<0.05, cohort retention, and two Power BI dashboards). All published and documented on GitHub.
 
----
+ 
 
-## 🛠 Technical Skills
+Background in Mechanical Engineering at Universidad de los Andes gave me a strong foundation in structured problem-solving and cross-functional communication — two things that matter as much as the code.
 
-- **Languages & Querying:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel  
-- **BI & Reporting Tools:** Power BI  
+ 
 
----
+Currently open to remote Data Analyst roles.
 
-## 💼 Featured Projects
+portfolio: https://santiagoacostab17.github.io/
 
-- **[DataForge](https://github.com/santiagoacostab17/DataForge)**  
-  10 hands-on Python projects to improve your skills and showcase mastery in logic, data manipulation, automation, and practical development.
+email: santiagoacostab17gmail.com
 
-- **[Northwind Revenue Insights](https://github.com/santiagoacostab17/Northwind-Revenue-Insights)**  
-  Sales, customer, and product analysis using the Northwind database with MySQL and Power BI dashboards.
-
-- **[Trading Profit Patterns](https://github.com/santiagoacostab17/Trading-Profit-Patterns)**  
-  Testing and analyzing candlestick patterns for trading with Python.
-
----
-
-## 📫 Contact Me
-
-- **Email:** [santiagoacostab17@gmail.com](mailto:santiagoacostab17@gmail.com)  
-- **Phone:** +57 3046742454  
-- **LinkedIn:** [linkedin.com/in/santiagoacostab17](https://www.linkedin.com/in/santiagoacostab17)
-
----
-
-## 🌐 Languages
-
-- Spanish: Native  
-- English: Professional / Full working proficiency
+WhatsApp: +573046742454
