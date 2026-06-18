@@ -14,5 +14,7 @@
 🌎 Open to remote Data Analyst opportunities.
 
 🔗 Portfolio: https://santiagoacostab17.github.io/
+
 📧 Email: [santiagoacostab17@gmail.com](mailto:santiagoacostab17@gmail.com)
+
 📱 WhatsApp: +57 304 674 2454
