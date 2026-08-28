@@ -1,20 +1,17 @@
-📊 Data Analyst passionate about turning raw data into decisions that drive impact.
+🌐 santiagoacostab17.github.io
 
-💻 Skilled across the full analytics stack: SQL (MySQL, PostgreSQL), Python (pandas, NumPy, SciPy, statsmodels), Power BI (DAX), and Excel.
+Turning messy data into clear decisions.
 
-🚀 Built end-to-end analytics projects in revenue intelligence, quantitative finance, and product analytics, including:
-• Northwind SQL Dashboard
-• EUR/USD analysis pipeline with 81,900+ observations and backtesting
-• RappiPlus analytics project featuring A/B testing (p < 0.05), cohort retention analysis, and Power BI dashboards
+I'm a Data Analyst with hands-on experience in SQL, Python, and Power BI, building pipelines, dashboards, and statistical models that help businesses understand what's happening and what to do next.
 
-📂 All projects are fully documented and available on GitHub.
+My work spans the full analytics cycle: from writing complex queries and cleaning raw datasets, to designing star-schema data models, running A/B tests, and delivering executive-ready dashboards. I've analyzed revenue patterns across $13M+ datasets, built a quantitative trading pipeline with 81,900+ EURUSD observations, and conducted funnel analysis on 7,700+ user cohorts.
 
-🎓 Background in Mechanical Engineering at Universidad de los Andes, with strong problem-solving and cross-functional communication skills.
+Before moving fully into analytics, I spent 4 months in English-language BPO roles (credit card collections and vehicle rental support), where I sharpened skills that now underpin my work as an analyst: clear communication under pressure, root-cause diagnosis of customer issues, precise data and CRM handling, and fast decision-making with incomplete information.
 
-🌎 Open to remote Data Analyst opportunities.
+I'm currently growing toward Data Science, integrating machine learning and predictive modeling alongside my core BI and analytics work.
 
-🔗 Portfolio: https://santiagoacostab17.github.io/
+🔧 What I work with: SQL (MySQL · PostgreSQL) · Python (pandas · NumPy · SciPy · statsmodels) · Power BI · DAX · Excel · Git
 
-📧 Email: [santiagoacostab17@gmail.com](mailto:santiagoacostab17@gmail.com)
+🌍 Open to: Remote roles with international teams · English-speaking environments · B2B SaaS · Fintech · Consulting
 
-📱 WhatsApp: +57 304 674 2454
+📩 santiagoacostab17@gmail.com
